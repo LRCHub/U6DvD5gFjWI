@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Mars",
+  "base_artist": "LUCKY TAPES",
+  "createdAt": "2026-03-12T05:18:09.156199Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mars For The Rich",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Mars_For_The_Rich_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mars for the Rich",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Mars_for_the_Rich_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mars for the Rich",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_Mars_for_the_Rich_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mars for the Rich (Live in Adelaide '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/04_Mars_for_the_Rich_(Live_in_Adelaide_'19)_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mars for the Rich (Live in Asheville '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Mars_for_the_Rich_(Live_in_Asheville_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mars",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/06_Mars_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life On Mars'",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Life_On_Mars'_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life On Mars",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Life_On_Mars_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life On Mars?",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Life_On_Mars_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life On Mars?",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Life_On_Mars_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life On Mars?",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Life_On_Mars_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life On Mars? (Previously Unreleased) (Live)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Life_On_Mars__(Previously_Unreleased)_(Live)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mirror (Feat. Bruno Mars) (Bonus Track)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/13_Mirror_(Feat._Bruno_Mars)_(Bonus_Track)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bubble Butt [feat. Bruno Mars, Tyga & Mystic]",
+      "artist": "Major Lazer feat. Bruno Mars, Tyga & Mystic",
+      "has_synced": false,
+      "path": "select/14_Bubble_Butt_[feat._Bruno_Mars,_Tyga_&_Mystic]_Major_Lazer_feat._Bruno_Mars,_Tyga_&_Mystic.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mars Landing Party",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/15_Mars_Landing_Party_Placebo.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mars Landing Party",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/16_Mars_Landing_Party_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Back From Mars",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/17_Back_From_Mars_Aqua.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mars Attack",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/18_Mars_Attack_Girls_Aloud.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mars",
+      "artist": "LUCKY TAPES",
+      "has_synced": false,
+      "path": "select/pl_01_Mars_LUCKY_TAPES.txt"
+    }
+  ]
+}
